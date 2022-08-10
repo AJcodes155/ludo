@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    margin: 30px;
+    font: 3rem cursive;
+    color: rgb(97, 128, 97);
+}
+
+
+p{
+    font: 2rem cursive;
+    color: rgb(17, 24, 10);
+}
+
+img{
+    max-width: 60%;
+}
+
+footer{
+    font: 1rem cursive;
+    color: maroon;
+    text-align: center;
+}
+#btn{
+    background-color: blue;
+    color: white;
+    padding: 1em;
+    border-radius: 30px;
+    border: none;
+
+}
